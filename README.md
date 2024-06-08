@@ -7,12 +7,62 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+Software engineering is the process of designing, creating, testing, and maintaining software using organized methods and principles to ensure the software works well and meets users' needs.
+
+
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+Traditional Programming: Mainly involves writing code to solve specific problems or perform tasks.
+Software Engineering: Encompasses the entire process of software development, including planning, design, testing, deployment, and maintenance.
+
+Approach:
+Traditional Programming: Often ad-hoc and individual-focused, with less emphasis on structured processes.
+Software Engineering: Uses structured and methodical approaches, involving teams, project management, and adherence to standards.
+
+Focus:
+Traditional Programming: Primarily focuses on writing and debugging code.
+Software Engineering: Focuses on the overall lifecycle of the software, including how it will be used, maintained, and improved over time.
+
+Software Development Life Cycle (SDLC)
+The Software Development Life Cycle (SDLC) is a series of steps or phases that guide the development of software. Here’s an overview:
+
+Planning:
+Define the project goals, scope, and constraints.
+Identify resources, budget, and schedule.
+
+Requirements Analysis:
+Gather and analyze what users need from the software.
+Document requirements clearly.
+
+Design:
+Create the architecture of the software.
+Plan how the software will be structured and how components will interact.
+
+Implementation (Coding):
+Write the actual code based on the design.
+Developers create the software using programming languages.
+
+Testing:
+Check the software for bugs and issues.
+Ensure it works as expected and meets requirements.
+
+Deployment:
+Release the software to users.
+Install it in the intended environment.
+
+Maintenance:
+Continuously update and improve the software.
+Fix any issues that arise and add new features as needed.
+
+
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+
+
+
+
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
@@ -41,3 +91,7 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+
+git add .
+git commit -m "plp"
+git push
